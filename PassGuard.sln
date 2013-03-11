@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PassGuard", "PassGuard\PassGuard.vbproj", "{E16AF599-8EE8-4E18-9833-9B2EB0426F84}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AES Crypter", "AES Crypter\AES Crypter.vbproj", "{528E7FE3-94B0-43FE-A8BC-0B653DC27F13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E16AF599-8EE8-4E18-9833-9B2EB0426F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E16AF599-8EE8-4E18-9833-9B2EB0426F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E16AF599-8EE8-4E18-9833-9B2EB0426F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E16AF599-8EE8-4E18-9833-9B2EB0426F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{528E7FE3-94B0-43FE-A8BC-0B653DC27F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{528E7FE3-94B0-43FE-A8BC-0B653DC27F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{528E7FE3-94B0-43FE-A8BC-0B653DC27F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{528E7FE3-94B0-43FE-A8BC-0B653DC27F13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
